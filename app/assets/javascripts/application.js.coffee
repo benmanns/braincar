@@ -14,4 +14,3 @@
 #= require jquery_ujs
 #= require numeric/numeric-1.2.6
 #= require brain/brain-0.6.0
-#= require_tree .
